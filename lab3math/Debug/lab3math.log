@@ -1,0 +1,2 @@
+﻿  Matrix.cpp
+c:\temp\lab3math\lab3math\matrix.cpp(60): error C4716: 'Matrix::operator=': must return a value

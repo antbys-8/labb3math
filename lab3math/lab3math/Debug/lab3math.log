@@ -1,0 +1,8 @@
+﻿  Matrix.cpp
+  Vector.cpp
+c:\temp\lab3math\lab3math\vector.cpp(110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\temp\lab3math\lab3math\vector.cpp(111): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\temp\lab3math\lab3math\vector.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab3math.cpp
+  Generating Code...
+  lab3math.vcxproj -> C:\temp\lab3math\Debug\lab3math.exe
